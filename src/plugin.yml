@@ -1,0 +1,10 @@
+name: CallAdmin
+main: com.calladmin.mainListener
+author: millworm
+version: 1.0.6
+description: Позвать админа.
+commands:
+ calladmin:
+  description: Позвать админа.
+  usage: /calladmin или /calladmin <проблема>
+ 
